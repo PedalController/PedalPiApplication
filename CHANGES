@@ -1,3 +1,8 @@
+Version 0.4.1 - released 03/15/18
+*********************************
+
+ - Improve PluginsManager dependency: Now supports path releases
+
 Version 0.4.0 - released 02/18/18
 *********************************
 
